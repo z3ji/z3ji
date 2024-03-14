@@ -16,7 +16,5 @@
     <br>
     <a href="https://github.com/z3ji?tab=repositories" target="_blank"><img alt="ZSH" src="https://img.shields.io/badge/ZSH script kiddie-121011?style=flat-square&logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/z3ji?tab=repositories" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python guesser-3670A0?style=flat-square&logo=python&logoColor=white"></a>
-    <br>
-    <a href="https://github.com/z3ji/z3ji" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/z3ji/z3ji?label=profile%20updated&style=flat-square"></a>
   </samp></p>
 </div>
