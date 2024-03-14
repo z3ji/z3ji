@@ -4,14 +4,13 @@
   
   <samp>Welcome to my GitHub Profile.</samp>
   
-  <samp>[Website](https://github.com/z3ji) •
+  <samp>[Website](https://z3ji.github.io) •
   [Contact](mailto:z3ji@proton.me)</samp>
   
 </div>
 
-<details align="center">
-   <summary><samp>Badges I've given myself</samp></summary>
-   <p align="center">
+<div>
+  <p align="center">
     <br>
     <a href="https://github.com/z3ji?tab=repositories" target="_blank"><img alt="NixOS" src="https://img.shields.io/badge/NixOS Enjoyer-3559a1?style=flat-square&logo=NixOS&logoColor=%23b3deff"></a>
     <br>
@@ -20,9 +19,4 @@
     <br>
     <a href="https://github.com/z3ji/z3ji" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/z3ji/z3ji?label=profile%20updated&style=flat-square"></a>
   </samp></p>
-
-  <p align="center"><samp>
-If I write in another language, don't anticipate that I'll be able to reproduce the same content in that language. <br> I may not be able to articulate my process or choices.
-  </samp></p>
-  
-</details>
+</div>
